@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "polar-standard-426804-f8",
+  "private_key_id": "6fd8d1139ea8c121a14a30e7dfd1f7a9bc941e7e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbL6NRa2kOIM8x\nkxkBOPjnzAifdATLno9ztQWg3Mv3M/S5E+yCUueeRD/CfNpQKtGv7inMnnvGcHrs\nu4SukbOHuPYvXo+yRvwaaZbMuG0DkoD+ejnisMEsLHKNKTSdbWqT5r/cnzfq98QS\nD2vJCXLfr5XF7dMzR2wSeo4w6e/b27sBwJ87v0sHGNVO/N1xc6axEyizN6aN8cEe\nfV2iqBUmFhOrbQ90D1iF7ICE5v95G/H7TIek5eRnK0MmIVLSte04TIJXdM7Nqm1g\nOBAKYmkXfKkpGwYtEGOLqDJamJqNcx5ybBZyQvaS+fVJfcTz0lG/eXPoP2LmesV4\nZvMETaO5AgMBAAECggEADb0ys4vUDfqogicCTj1P/NehQr12/3x06X/TVn4AmwI6\nuM8y6AhiVF1a0coZtSS5+BkprZXRlGLAkc4/RuIDKuLBK771qusgKlesCDEXRD4O\nr+ThdAA4W5h9pbOLhMKzB4pTRHUGgEf/llI5I2TgOn07GikKMBCuCYp9FzvSuSkz\nElbRfi6KJY3m8oJ4dI5OYVhCteOmbvDtuAJcCRh0Pw+/pe9t96+L8+TgTdKdTTon\nb/sfbWWfuKGFDOBGh8KqO1Kn3ZxulIyJgDbHnRTwDtTyo1oie4bnnFKrNu7ouTlR\nylKwzmwFTnujNcG5eckgSHLztFbRnFmrTa4GqIfxcQKBgQD8PFCl+VkkLBV2rQ6M\ntqkycyByPTcKjwzURe5qK00g0DrJyXg3ktnlKUTzTu8RLcrr50utRuwNAK7Qm1w6\nwsvUlzU+bTaVKaViQw7hRzPDoloZCkrx0RFVVoqQYWx5ye6tFdsBGcTxD8KEzYoH\nEvPyYveFDBAQZG7cTjBCT/HshwKBgQDedQ4FaUh33MFILC/wEtw38MJZ2RCK4kSa\nh0ql+jD+Vhsum3h2uDv0ROwWo7btDsci3EGzMwk5+HsYp9oR1APlZ7QbRHXM5eHE\nxeYjzZ3/tSJ4q5ofeRMNAl84LuHd83/Eo9PxIdnFC4IdY/bH4TR9rJIgQno7IOBP\nZ/Md+X49vwKBgBXrK9rwaxWgmxDgAvapXNSceoJS3XiWa7f6h7hEIQSr85/bWQ4D\nPdoTFwHJpy6n+w064TGiixqqJ4bLKV2V1d6YcTEGjoqxvsRmLWHYLSBf+FJauZ5/\n23C9/3aCcMm4iXwS/SAAXEPSacXekpMAy6ARh47ROIgkIhoU1U694bj7AoGASZcP\nfFrHzl8I0YdMlG6oyxiqMm7MOiV/7F61IxMRAhIaC+ECiMOJkdT7BMJD0UgCOFYE\npfNMKhE5J37fdOZeI5WazypmjdG+TgnpiA6NJfoV3TVnVuIGm1cdiMh5j6LtsW9A\nvZQlJjoYYQCgsp6dbrWX4XQcW1MU4S/SDShryqECgYEAqeWz6ubNVY8wo9xJbWRR\nBHtBzB8vFG3ciZXaKVVImHd7DNV4+dMSNDziYh+uIAFSTOaY70zKCDJ3K3NjrzOK\niQgJhHqhDh2grhlKrwfzu27L7VaCo1osxvOyM5/HH2X69N/0coTUyTam+gisFTek\nt0jydbwXtbH1WclrORSiHwg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "basckupmyebook@polar-standard-426804-f8.iam.gserviceaccount.com",
+  "client_id": "101002869549144743105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/basckupmyebook%40polar-standard-426804-f8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
